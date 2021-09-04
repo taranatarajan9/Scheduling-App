@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "327852199249",
+    "project_id": "uiuc-secondhand-guneetkrishna",
+    "storage_bucket": "uiuc-secondhand-guneetkrishna.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327852199249:android:f4b81ff2db8beb874f1770",
+        "android_client_info": {
+          "package_name": "com.uiucsecondhandgk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327852199249-dni0m5qrc4sl23i7u402p279esn4eap6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uiucsecondhandgk",
+            "certificate_hash": "786262abac8aa46de3ac74ba3f43cd6ecb2f9c5d"
+          }
+        },
+        {
+          "client_id": "327852199249-krn6ecdkktgsmii44h0k5vakqlc7r3r7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxGRJYa1j8SUBse7qw4dZFChXzhztt6Gk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327852199249-krn6ecdkktgsmii44h0k5vakqlc7r3r7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "327852199249-0gcsdsk0c3pp7bc4n966ng8rcthicogq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uiucsecondhand"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
